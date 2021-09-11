@@ -1,0 +1,10 @@
+Zilox bot is now hosted on horoku so to add new features I'd have to constantly git bash so in order to make new features or add new things. Zilox beta bot will be for new scripts only
+Once a script is complete, add it to the Zilox bot files (Install any depositorys if needed) and do the following:
+
+IF YOU CHANGE ALL FILES MAKE SURE THE BOTCONFIG FILE HAS THE RIGHT PREFIX
+
+1. Go on to "cd C:\Users\Super\Downloads\Discord bots\Zilox 2 bot"
+2. Right click and go to "Git bash"
+3. Do "git status" to make sure everything is their
+4. Do "git commit -m "VERSION NAME""
+5. Do "git push heroku"

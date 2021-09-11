@@ -1,0 +1,32 @@
+Version 7
+To do:
+
+do chat reactions (toggleable edition)
+-- Add stop command
+-- Bot mention doesn't work!
+DM user when they are unbanned/unmuted
+- Add ChangeNick command
+Add welcome command (?)
+Add NSFW command
+- Add unban command
+Posts provided by r/dankmemes & r/memes (Only one subreddit now | meme.js)
+
+Changed:
+
+Fixed meme command delay - meme.js - 27/06/2020
+Fixed purge not deleting messages - purge.js - 27/06/2020
+Fixed purge where it deletes the command and not the message - purge.js - 27/06/2020
+Fixed issue with the prefix always working aslong as there is a character behind a command (e.g. x!help | lhelp | hhelp) - index.js - 27/06/2020
+Fixed kick "Can't find user" having no colour - kick.js - 27/06/2020
+Fixed mute not being detected - mute.js - ??/??/????
+Added fkJerry - fkJerry.js - 07/07/2020
+
+Total files changed: 3
+
+Format:
+
+What changes - File changed - Date when changed
+(?) Means maybe
+- Means attempted but removed, maybe retry later
+-> Means important
+-- Canceled Idea

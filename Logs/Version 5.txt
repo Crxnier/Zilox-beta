@@ -1,0 +1,22 @@
+Version 5
+To change/add:
+
+Fix mute reason showing mute time
+Allow the bot to be mentioned as a backup prefix
+do chat reactions (toggleable edition)
+Add command cooldown (?)
+
+Changed:
+
+Fix ban [NO PERM] message - ban.js - 12/05/2020
+Fixed prefix code (Deleted file "Prefixes.json") - index.js - 12/05/2020
+Changed activity to only say prefix as bot is now hosted - index.js - 12/05/2020
+Removed command cooldown since it didn't work - index.js - 12/05/2020
+Added descriptions to all commands - all commands - 13/05/2020
+Added help command - help.js - 13/05/2020
+Added usage to all commands - all commands - 13/05/2020
+Added kick - kick.js - 13/05/2020
+Added the ability to check another users information - userinfo.js - 13/05/2020
+
+
+Total files changed: index.js | all commands | prefix.json

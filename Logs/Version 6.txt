@@ -1,0 +1,36 @@
+Version 6
+To do:
+
+do chat reactions (toggleable edition)
+-- Add stop command
+DM user when they are unbanned/kicked/unmuted
+- Add ChangeNick command
+Add NSFW command
+Fix bug where doing >purge 1 will just delete the command and not a message
+
+Changed:
+
+Added kick dm message - kick.js - 12/05/2020
+Changed "Click Here" to "Click here" - botinfo.js - 20/05/2020
+Create invites.js - invites.js - 20/05/2020
+Made servers.js bot owner only - servers.js - 20/05/2020
+Made support.js - support.js - 20/05/2020
+Removed DM message - index.js - 20/05/2020
+Added restart - restart.js - 20/05/2020
+Colours now change when command is used (Instead of changing when bot restarts) - ALL COMMANDS - 20/05/2020
+Added purge command - purge.js - 20/05/2020
+Added unmute dm message - unmute.js - 20/05/2020
+Added mute dm message - mute.js - 20/05/2020
+Added unmute dm message - mute.js - 20/05/2020
+Fixed addolre success message not showing colour - addrole.js - 20(?)/05/2020
+Added bot mention as a prefix - index.js + botconfig.json - 21/05/2020
+Made help say a command doesn't exist if it's wrong
+
+Total files changed: ALL
+
+Format:
+
+What changes - File changed - Date when changed
+(?) Means maybe
+- Means attempted but removed, maybe retry later
+-- Canceled Idea
